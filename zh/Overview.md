@@ -1,21 +1,20 @@
-## Security > Server Security Check > 개요
+## Security > Server Security Check > Overview
 
-신규 또는 운영 중인 시스템의 보안 취약점을 점검하고 발견된 취약점에 대한 대응 방법을 제공하는 서비스입니다.
+This service checks the security vulnerabilities of new and existing systems and suggests the responses to the detected vulnerabilities.
 
-## 주요 기능
+## Main features
 
-* 시스템의 주요 보안 설정값을 점검하고 조치해 시스템 안전성을 확보하고 잠재적 취약점을 제거할 수 있습니다.
-* 주요정보통신기반시설, 전자금융기반시설 보안 기준을 바탕으로 체크리스트를 만들어 점검을 수행합니다.
-* 보안 설정값을 사전에 조치해 유지 보수 비용을 절감할 수 있습니다.
-* 고객에게 안정적 서비스를 제공하여 기업 이미지 향상에 기여할 수 있습니다.
-* 발견된 취약점에 대한 근본적인 대응 방법을 제공합니다.
+* Checks the major security settings of the system and takes necessary actions to ensure system stability and remove potential vulnerabilities.
+* Checks the system with a checklist based on the security policies of major IT infrastructure and fintech infrastructure.
+* By applying preventive measures to security settings, the cost of maintenance can be reduced.
+* Improves business image by providing a reliable service to clients.
+* Provides fundamental responses to the detected vulnerability.
 
-## 특이 사항
+## Special notes
 
-* 서비스 문제로 점검이 중단된 경우에는 이용 요금이 과금되지 않습니다.
-* Agent 점검 중단 시 지원 서비스를 제공합니다.
+* Fee is not charged to down time caused by service problems.
+* An alternative service will be provided when the Agent service is stopped.
 
-## 서비스 절차
+## Service procedure
 
 ![serversecuritycheck_00_20201015.png](https://static.toastoven.net/prod_serversecuritycheck/serversecuritycheck_00_20201020.png)
-
