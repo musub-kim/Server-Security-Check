@@ -1,4 +1,4 @@
-## Security > Server Security Check > 릴리스 노트
+## Security > Server Security Check > Release Note
 
-### 2020. 10. 27.
-* Server Security Check 서비스 출시
+### October 27, 2020
+* The Server Security Check service released
