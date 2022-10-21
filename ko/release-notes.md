@@ -1,6 +1,6 @@
 ## Security > Server Security Check > 릴리스 노트
 
-### 2021. 01. 26.
+### 2022. 10. 25.
 * Service Gateway 연동 지원 추가
 
 ### 2021. 01. 26.
